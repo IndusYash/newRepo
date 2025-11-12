@@ -1,12 +1,53 @@
-# React + Vite
+MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY
+DEPARTMENT OF COMPUTER SCIENCE AND TECHNOLOGY
+COMPUTER NETWORK PROJECT
+MEMBERS – YASHVARDHAN OJHA AND SAURABH PATEL
+Roll no. - 2023021270 and 2023021253
+Year - Third Year 
+Link - https://new-repo-eosin-nu.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✈️ Aviation Bay
+Aviation Bay is a privacy-centric platform for anonymous geo-tagged jet spotting and community discussion.
 
-Currently, two official plugins are available:
+✅ Current Features
+🚀 Jet Identification:
+Users can upload jet images; AI (Gemini/OpenAI) analyzes and identifies jet types.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🗺️ Map-Based Reporting:
+Sightings are mapped with location data for interactive exploration.
 
-## Expanding the ESLint configuration
+🗄️ Backend Storage:
+Reports, images, and mapped data are securely saved in Supabase.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🤖 Chatbot:
+Integrated Gemini-powered chatbot answers aviation and community questions.
+
+🛠️ Proposed Features & Roadmap
+🕵️ Full Anonymous Authentication:
+Allow users to comment and moderate without sharing personal info, using cryptographic methods.
+
+📈 Flight Radar Integration:
+Overlay user sightings with real-time airspace data from flight radar feeds.
+
+🏷️ Advanced AI Jet Recognition:
+Expand the AI model for more precise identification of aircraft, including rare jets.
+
+💬 Community Moderation Tools:
+Enable voting and spam control, all without revealing user identity.
+
+🚦 Incident/Event Tagging:
+Support for reporting and discussing aviation incidents, events, or anomalies.
+
+📚 Learning & Analysis:
+Enhanced support for geo-political, educational, and research communities.
+
+⚙️ Tech Stack
+React (frontend)
+
+Supabase (backend cloud database)
+
+Gemini/OpenAI APIs (AI/Chatbot)
+
+🌍 Vision
+Aviation Bay aims to build the world’s most inclusive and secure community for airspace intelligence—combining live jet identification, geo-mapping, AI, and respectful discussion:
+All with privacy at its core.
